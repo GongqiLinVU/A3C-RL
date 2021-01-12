@@ -4,7 +4,7 @@ This repository is for the paper "Incorporating Graph Attention Mechanism into G
 
 # Train Dataset
 
-The train dataset used for evaluation model in the paper avaliable in the train folder.
+The train dataset used for evaluation model in the paper avaliable in the train_data folder.
 
 # Examples
 
